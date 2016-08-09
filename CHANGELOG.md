@@ -1,3 +1,11 @@
+## 2.0.0 (2016-08-09)
+
+
+#### Features
+
+* **Geosuggest:** pass on mouse and clipboard events ([7dc64566](https://github.com/ubilabs/react-geosuggest/commit/7dc64566f9149b720ee8f7809cf1d83bfef6bccf), closes [#182](https://github.com/ubilabs/react-geosuggest/issues/182))
+
+
 ### 1.24.1 (2016-06-21)
 
 
